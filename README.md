@@ -1,4 +1,5 @@
 # HIbernate-Crud-Management
+*Step to create Hibernate Application*
 1.	Create a Java Bean Class / Entity Class / POJO Class.
 2.	Mapping between Java application and Relational Model which can be done in 3 different ways namely;
   a)	xml file called as Filename.hbm.xml where hbm refers to Hibernate Mapping
